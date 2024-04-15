@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<p align="center">I'm Dover, a programming enthusiast from the USA.</p>
+<p align="center">I'm Dovi, a programming enthusiast from the USA.</p>
 
 ## Skills
 
@@ -15,6 +15,3 @@
 <img width="20" src="https://angular.io/assets/images/logos/angular/angular.svg"> Angular
 
 <img width="20" src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"> Ionic
-
-## For Buissness Inquiries
-dovi@classroomforyou.tk
